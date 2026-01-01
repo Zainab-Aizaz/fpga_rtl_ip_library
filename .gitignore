@@ -12,7 +12,6 @@ csrc/
 *.Xil
 *.cache/
 *.runs/
-*.srcs/
 *.ip_user_files/
 *.hw/
 *.sim/
