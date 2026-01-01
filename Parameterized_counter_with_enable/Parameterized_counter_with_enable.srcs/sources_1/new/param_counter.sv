@@ -27,7 +27,7 @@ module param_counter #(
     output logic [WIDTH-1:0]     count
 );
 
-    always_ff @(posedge clk) begin
+    always_ff @(posedge clk) begin   // always_ff @(posedge clk or posedge rst) for active high asynch reset 
         if (rst) begin
             count <= '0;
         end

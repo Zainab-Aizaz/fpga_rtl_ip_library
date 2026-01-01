@@ -1,0 +1,19 @@
+# Simulation
+*.vcd
+*.fst
+*.wlf
+*.log
+*.jou
+transcript
+simv
+csrc/
+
+# Vivado
+*.Xil
+*.cache/
+*.runs/
+*.srcs/
+*.ip_user_files/
+*.hw/
+*.sim/
+.vivado/

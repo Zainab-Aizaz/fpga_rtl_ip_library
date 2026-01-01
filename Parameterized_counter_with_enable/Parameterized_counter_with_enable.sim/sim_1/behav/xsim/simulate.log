@@ -25,4 +25,4 @@ TEST PASSED
 TEST PASSED
 TEST PASSED
 TEST PASSED
-$finish called at time : 265 ns : File "C:/Users/Lenovo/Documents/GitHub/fpga-rtl-ip-library/Parameterized_counter_with_enable/Parameterized_counter_with_enable.srcs/sim_1/new/param_counter_tb.sv" Line 78
+$finish called at time : 265 ns : File "C:/Users/Lenovo/Documents/GitHub/FPGA_rtl_ip_library/Parameterized_counter_with_enable/Parameterized_counter_with_enable.srcs/sim_1/new/param_counter_tb.sv" Line 78
